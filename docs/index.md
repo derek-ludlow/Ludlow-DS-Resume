@@ -18,7 +18,7 @@ Computer Science student at Brigham Young University-Idaho.
 A student with growing software engineering skills specializing in software development, C#, computer science, and Python. A track record of academic success in major-specific courses, demonstrating rapid learning of new languages & technologies, and a passion for creative problem solving. Adept at helping identify innovative solutions and coordinating as a part of multi-faceted teams to achieve results.
 
 ## Education
-Bachelor of Science (B.S.) Computer Science 			                       Expected graduation Dec 2024       
+Bachelor of Science (B.S.) Computer Science 			                       expected graduation Dec 2024       
 Brigham Young University Idaho, Rexburg ID 
 
 ## Personal & Academic Projects                                                                      Sep 2022-Present

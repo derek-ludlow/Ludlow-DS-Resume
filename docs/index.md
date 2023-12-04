@@ -29,7 +29,7 @@ Brigham Young University Idaho, Rexburg ID
 -	Javascript exercise tracker- Developed a dynamic web-based exercise tracker app using HTML, Javascript, and DOM manipulation, featuring exercise record management, user interaction, and data validation
 
 ## Professional Experience
-#### Deliverables Manager-Intern, Research and Business Development Center, Rexburg ID            Sep 2023-Present
+#### Deliverable Manager Intern, Research and Business Development Center, Rexburg ID            Sep 2023-Present
 -	Developed a Python automation script using the ‘smtplib’ library to streamline and expedite the survey process for businesses contacted, resulting in a 40% increase in survey response rates
 -	Oversaw and maintained deliverable materials; including formatting, editing, and finalizing all materials presented to client
 -	Collaborated with a team of students from different majors and backgrounds in order to deliver impactful outcomes 

@@ -21,7 +21,8 @@ A student with growing software engineering skills passionate about software dev
 Bachelor of Science (B.S.) Computer Science 			                       expected graduation Dec 2024       
 Brigham Young University Idaho, Rexburg ID 
 
-## Personal & Academic Projects                                                                      Sep 2022-Present
+## Personal & Academic Projects                                                                      
+#### Sep 2022-Present
 -	Python email task automator-Developed a Python-based email task automator using ‘imaplib’ and ‘smtplib’ libraries, automating email management processes, and demonstrating skills in automization
 -	C# Weather application-Designed and implemented a C# weather application utilizing the OpenWeatherApp API to retrieve and display real-time weather data for user-specified locations, enhancing proficiency in API integration, JSON parsing, and user interface design
 -	SQL Inventory Management System-Collaboratively prototyped, tested, and configured a functioning inventory management database using MySQL and AWS as part of a team

@@ -15,7 +15,7 @@ Computer Science student at Brigham Young University-Idaho.
 <!-- https://www.monique.tech/the-art-of-markdown -->
 
 ## Profile
-A student with growing software engineering skills specializing in software development, C#, computer science, and Python. A track record of academic success in major-specific courses, demonstrating rapid learning of new languages & technologies, and a passion for creative problem solving. Adept at helping identify innovative solutions and coordinating as a part of multi-faceted teams to achieve results.
+A student with growing software engineering skills passionate about software development and solutions. A track record of academic success in major-specific courses, demonstrating rapid learning of new languages & technologies, and a passion for creative problem solving. Adept at helping identify innovative solutions and coordinating as a part of multi-faceted teams to achieve results.
 
 ## Education
 Bachelor of Science (B.S.) Computer Science 			                       expected graduation Dec 2024       

@@ -1,6 +1,6 @@
 ---
-layout: cv
-title: Derek Ludlow's Resume
+layout: resume
+title: Derek Ludlow
 ---
 # Derek Ludlow
 Computer Science student at Brigham Young University-Idaho.
